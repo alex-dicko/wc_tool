@@ -1,6 +1,6 @@
 **Usage**
 
-./<executable-name> <flag> <file-path>
+./executable-name flag file-path
 
 **Available Flags**
 -c  =  Bytes
